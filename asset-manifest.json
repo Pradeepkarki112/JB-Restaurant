@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JB-Restaurant/static/css/main.c1a41e1f.css",
+    "main.js": "/JB-Restaurant/static/js/main.31e2a323.js",
+    "index.html": "/JB-Restaurant/index.html",
+    "main.c1a41e1f.css.map": "/JB-Restaurant/static/css/main.c1a41e1f.css.map",
+    "main.31e2a323.js.map": "/JB-Restaurant/static/js/main.31e2a323.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a41e1f.css",
+    "static/js/main.31e2a323.js"
+  ]
+}
